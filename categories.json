@@ -127,7 +127,7 @@
 			"Spacewar",
 			"Sonic The Hedgehog",
 			"Genshin Impact",
-      "Postal 2"
+      			"Postal 2"
 		]
 	},
 	"shapes": {
@@ -202,7 +202,7 @@
 			"Spacetime",
 			"Asteroid",
 			"Black hole",
-      "Nebula"
+      			"Nebula"
 		]
 	},
 	"weather": {
